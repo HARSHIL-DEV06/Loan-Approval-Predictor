@@ -1,6 +1,6 @@
 # Loan Approval Prediction System
 
-## 📌 Overview
+##  Overview
 
 This project is a machine learning based application that predicts whether a loan application will be approved or not based on applicant details.
 
@@ -8,7 +8,7 @@ It was developed as a mini project to understand and implement the complete mach
 
 
 
-## 🚀 Features
+## Features
 
 * Data preprocessing and cleaning
 * Exploratory Data Analysis (EDA)
@@ -19,7 +19,7 @@ It was developed as a mini project to understand and implement the complete mach
 
 
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 
 The project follows a structured ML pipeline:
 
@@ -52,7 +52,7 @@ The project follows a structured ML pipeline:
 
 
 
-## 🌐 Deployment
+## Deployment
 
 * Frontend built using **Streamlit**
 * Deployed on **Render**
@@ -60,7 +60,7 @@ The project follows a structured ML pipeline:
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -70,7 +70,7 @@ The project follows a structured ML pipeline:
 
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── data/                 # Dataset files
@@ -83,7 +83,7 @@ The project follows a structured ML pipeline:
 
 
 
-## 💡 Key Learnings
+## Key Learnings
 
 * Understanding end-to-end ML workflow
 * Importance of feature analysis in prediction problems
@@ -93,7 +93,7 @@ The project follows a structured ML pipeline:
 
 
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Improve model accuracy with advanced techniques
 * Add more features to enhance prediction quality
@@ -102,11 +102,11 @@ The project follows a structured ML pipeline:
 
 
 
-## 🔗 Live Demo
+## Live Demo
 https://loan-approval-predictor-owo6.onrender.com
 
 
 
-## 👨‍💻 Author
+##  Author
 
 Developed as a learning project to strengthen practical understanding of machine learning and deployment.
