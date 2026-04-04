@@ -2,11 +2,11 @@
 
 ## 📌 Overview
 
-This project is a machine learning-based application that predicts whether a loan application will be approved or not based on applicant details.
+This project is a machine learning based application that predicts whether a loan application will be approved or not based on applicant details.
 
-It was developed as a mini project to understand and implement the complete machine learning workflow — from data analysis to model deployment.
+It was developed as a mini project to understand and implement the complete machine learning workflow  from data analysis to model deployment.
 
----
+
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@ It was developed as a mini project to understand and implement the complete mach
 * Deployment using Streamlit
 * Hosted on Render for public access
 
----
+
 
 ## 🧠 Machine Learning Workflow
 
@@ -50,7 +50,7 @@ The project follows a structured ML pipeline:
 
    * Evaluated models using standard metrics (accuracy, etc.)
 
----
+
 
 ## 🌐 Deployment
 
@@ -58,7 +58,7 @@ The project follows a structured ML pipeline:
 * Deployed on **Render**
 * Users can input details and get real-time loan approval predictions
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +68,7 @@ The project follows a structured ML pipeline:
 * Matplotlib / Seaborn
 * Streamlit
 
----
+
 
 ## 📂 Project Structure
 
@@ -81,7 +81,7 @@ The project follows a structured ML pipeline:
 └── README.md
 ```
 
----
+
 
 ## 💡 Key Learnings
 
@@ -91,7 +91,7 @@ The project follows a structured ML pipeline:
 * Deploying ML models using Streamlit
 * Hosting applications for public access
 
----
+
 
 ## 📌 Future Improvements
 
@@ -100,13 +100,12 @@ The project follows a structured ML pipeline:
 * Better UI/UX for frontend
 * Integrate real-time data sources
 
----
+
 
 ## 🔗 Live Demo
+https://loan-approval-predictor-owo6.onrender.com
 
-[Add your Render deployment link here]
 
----
 
 ## 👨‍💻 Author
 
